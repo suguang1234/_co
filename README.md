@@ -69,10 +69,28 @@
 
 第六周作業 難度驟升問余陳安的
 
+[RAM512](https://github.com/suguang1234/_co/blob/master/03/b/RAM512.hdl)
+
+[RAM4K](https://github.com/suguang1234/_co/blob/master/03/b/RAM4K.hdl)
+
+[RAM16K](https://github.com/suguang1234/_co/blob/master/03/b/RAM16K.hdl)
+
+[PC](https://github.com/suguang1234/_co/blob/master/03/a/PC.hdl)
+
 第七周作業 難度驟升問余陳安的
+
+[mult](https://github.com/suguang1234/_co/blob/master/04/mult/mult.asm)
 
 第八周作業 難度驟升問余陳安的
 
+[Fill](https://github.com/suguang1234/_co/blob/master/04/fill/Fill.asm)
+
 第九周作業 難度驟升問余陳安的
 
+[cpu](https://github.com/suguang1234/_co/blob/master/05/CPU.hdl)
+
 第十周作業 難度驟升問余陳安的
+
+[memory](https://github.com/suguang1234/_co/blob/master/05/Memory.hdl)
+
+[computer](https://github.com/suguang1234/_co/blob/master/05/Computer.hdl)
