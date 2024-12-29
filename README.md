@@ -57,7 +57,7 @@
 
 [ALU](https://github.com/suguang1234/_co/blob/master/02/ALU.hdl)
 
-第五周作業 難度驟升問余陳安的
+第五周作業 難度驟升問余陳安的(有搞懂)
 
 [Bit](https://github.com/suguang1234/_co/blob/master/03/a/Bit.hdl)
 
@@ -67,7 +67,7 @@
 
 [RAM64](https://github.com/tonytomtody/_co/blob/master/03/a/RAM64.hdl)
 
-第六周作業 難度驟升問余陳安的
+第六周作業 難度驟升問余陳安的(有搞懂)
 
 [RAM512](https://github.com/suguang1234/_co/blob/master/03/b/RAM512.hdl)
 
@@ -77,19 +77,19 @@
 
 [PC](https://github.com/suguang1234/_co/blob/master/03/a/PC.hdl)
 
-第七周作業 難度驟升問余陳安的
+第七周作業 問余陳安的(沒懂)
 
 [mult](https://github.com/suguang1234/_co/blob/master/04/mult/mult.asm)
 
-第八周作業 難度驟升問余陳安的
+第八周作業 問余陳安的(沒懂)
 
 [Fill](https://github.com/suguang1234/_co/blob/master/04/fill/Fill.asm)
 
-第九周作業 難度驟升問余陳安的
+第九周作業 問余陳安的(沒懂)
 
 [cpu](https://github.com/suguang1234/_co/blob/master/05/CPU.hdl)
 
-第十周作業 難度驟升問余陳安的
+第十周作業 問余陳安的(沒懂)
 
 [memory](https://github.com/suguang1234/_co/blob/master/05/Memory.hdl)
 
