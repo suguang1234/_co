@@ -9,7 +9,8 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程教材 | https://github.com/ccc112a/cpu2os <BR/> https://www.nand2tetris.org/
 
-第一周作業
+第一周作業 自己寫的
+
 [Not](https://github.com/suguang1234/_co/blob/master/01/Not.hdl)
 
 [And](https://github.com/suguang1234/_co/blob/master/01/And.hdl)
@@ -22,20 +23,56 @@
 
 [DMux](https://github.com/suguang1234/_co/blob/master/01/DMux.hdl)
 
-第二周作業
+第二周作業 自己寫的
 
-第三周作業
+[NOT16](https://github.com/suguang1234/_co/blob/master/01/Not16.hdl)
 
-第四周作業
+[AND16](https://github.com/suguang1234/_co/blob/master/01/And16.hdl)
 
-第五周作業
+[OR16](https://github.com/suguang1234/_co/blob/master/01/Or16.hdl)
 
-第六周作業
+[Mux16](https://github.com/suguang1234/_co/blob/master/01/Mux16.hdl)
 
-第七周作業
+[OR8Way](https://github.com/suguang1234/_co/blob/master/01/Or8Way.hdl)
 
-第八周作業
+[Mux4Way16](https://github.com/suguang1234/_co/blob/master/01/Mux4Way16.hdl)
 
-第九周作業
+[Mux8Way16](https://github.com/suguang1234/_co/blob/master/01/Mux8Way16.hdl)
 
-第十周作業
+[DMux4Way](https://github.com/suguang1234/_co/blob/master/01/DMux4Way.hdl)
+
+[DMux8Way](https://github.com/suguang1234/_co/blob/master/01/DMux8Way.hdl)
+
+第三周作業 問Chatgpt
+
+[HalfAdder](https://github.com/suguang1234/_co/blob/master/02/HalfAdder.hdl)
+
+[FullAdder](https://github.com/suguang1234/_co/blob/master/02/FullAdder.hdl)
+
+[Add](https://github.com/suguang1234/_co/blob/master/02/Add16.hdl)
+
+[Inc16](https://github.com/suguang1234/_co/blob/master/02/Inc16.hdl)
+
+第四周作業 問Chatgpt
+
+[ALU](https://github.com/suguang1234/_co/blob/master/02/ALU.hdl)
+
+第五周作業 難度驟升問余陳安的
+
+[Bit](https://github.com/suguang1234/_co/blob/master/03/a/Bit.hdl)
+
+[Register](https://github.com/suguang1234/_co/blob/master/03/a/Register.hdl)
+
+[RAM8](https://github.com/tonytomtody/_co/blob/master/03/a/RAM8.hdl)
+
+[RAM64](https://github.com/tonytomtody/_co/blob/master/03/a/RAM64.hdl)
+
+第六周作業 難度驟升問余陳安的
+
+第七周作業 難度驟升問余陳安的
+
+第八周作業 難度驟升問余陳安的
+
+第九周作業 難度驟升問余陳安的
+
+第十周作業 難度驟升問余陳安的
